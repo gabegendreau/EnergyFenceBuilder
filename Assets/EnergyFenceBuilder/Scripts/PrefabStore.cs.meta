@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2a30c6c7930dde440b0ffe2a53d50d57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - greenEnergyPrefab: {fileID: 6841764781979553904, guid: 167ae17b72c4ecd4991b680bfbc6ecdf, type: 3}
+  - yellowPurplePrefab: {fileID: 6841764781979553904, guid: 188b449e23dd02941993436adb80f021, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
